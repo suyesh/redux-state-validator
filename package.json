@@ -1,6 +1,6 @@
 {
 	"name": "redux-state-validator",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description":
 		"Redux middleware to validate redux state values and object types using JSON Schema",
 	"main": "index.js",
