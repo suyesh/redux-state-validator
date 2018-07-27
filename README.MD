@@ -93,25 +93,25 @@ Install it as:
 
 ## USAGE
 
-###Import Validator from redux-state-validator
+### Import Validator from redux-state-validator
 
 ```
 import Validator from 'redux-state-validator';
 ```
 
-###Import Json Schema on the file
+### Import Json Schema on the file
 
 ```
 import stateSchema from './your-json-schema';
 ```
 
-###Setup `Validator` to use the schema
+### Setup `Validator` to use the schema
 
 ```
 const stateValidator = Validator.Schema(stateSchema);
 ```
 
-###Apply to the redux middleware
+### Apply to the redux middleware
 
 ```
 const store = createStore(
