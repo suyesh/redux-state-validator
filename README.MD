@@ -4,7 +4,7 @@
 
 A Simple Redux middleware to validate redux state values and object types using JSON Schema.
 
-![How it looks](https://res.cloudinary.com/dvnjqhdxp/image/upload/v1532708454/stateValidation.gif)
+![How it looks](https://res.cloudinary.com/dvnjqhdxp/image/upload/v1532708882/stateValidation.gif)
 
 ## PRE-REQUIREMENT (IMPORTANT)
 
