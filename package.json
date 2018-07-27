@@ -1,0 +1,34 @@
+{
+	"name": "redux-state-validator",
+	"version": "0.0.1",
+	"description":
+		"Redux middleware to validate redux state values and object types using JSON Schema",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/suyesh/redux-json-schema.git"
+	},
+	"keywords": [
+		"redux-json-schema-validator",
+		"json",
+		"schema",
+		"redux'",
+		"validate",
+		"redux",
+		"state",
+		"middleware",
+		"redux-middleware"
+	],
+	"author": "Suyesh Bhandari <suyeshb@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/suyesh/redux-json-schema/issues"
+	},
+	"homepage": "https://github.com/suyesh/redux-json-schema#readme",
+	"dependencies": {
+		"tv4": "^1.3.0"
+	}
+}
