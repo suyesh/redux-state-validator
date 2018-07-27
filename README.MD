@@ -102,7 +102,7 @@ import Validator from 'redux-state-validator';
 ###Import Json Schema on the file
 
 ```
-import schema from './your-json-schema';
+import stateSchema from './your-json-schema';
 ```
 
 ###Setup `Validator` to use the schema
