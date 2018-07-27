@@ -9,7 +9,7 @@ function createMiddleWare(schema, valid) {
 				'%cState Validation Failed:',
 				'background: #e74c3c; color: white',
 				{
-					[result.error.dataPath.split('/')[1]]: {
+					[result.error.dataPath]: {
 						message: result.error.message,
 						validation: result.error.params
 					}
